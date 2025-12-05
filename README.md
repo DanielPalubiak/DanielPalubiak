@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DanielPalubiak/DanielPalubiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Daniel**, a developer passionate about building useful tools, experimenting with hardware, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Personal robot assistants (offline/online hybrid) using Python, VOSK, and OpenAI APIs
+
+## 🌱 What I'm Learning
+
+* Advanced Python
+* Machine learning and computer vision models
+* Web development for dashboards and automation systems
+
+## 👯 Looking to Collaborate On
+
+* Open‑source ML/AI projects
+* Hardware + software automation ideas
+
+## 🤔 Looking for Help With
+
+* Improving detection accuracy & performance on low‑power devices
+
+## 💬 Ask Me About
+
+* Raspberry Pi projects
+* YOLO object detection
+* Python scripts & automation
+* 3D modeling in Fusion 360
+
+## 📫 How to Reach Me
+
+Feel free to contact me on GitHub or any platform linked in my profile.
+
+## ⚡ Fun Fact
+
+I enjoy building smart systems that mix **AI + hardware** — from barriers with servos to fully offline speech assistants!
+I play on guitar
